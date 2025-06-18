@@ -1,0 +1,868 @@
+[2024-04-28T00:25:46.673+0000] {processor.py:161} INFO - Started process (PID=46555) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T00:25:46.679+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T00:25:46.683+0000] {logging_mixin.py:188} INFO - [2024-04-28T00:25:46.682+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T00:25:47.426+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T00:25:47.455+0000] {logging_mixin.py:188} INFO - [2024-04-28T00:25:47.454+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T00:25:47.476+0000] {logging_mixin.py:188} INFO - [2024-04-28T00:25:47.476+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T00:25:47.492+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.849 seconds
+[2024-04-28T02:01:13.544+0000] {processor.py:161} INFO - Started process (PID=46615) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T02:01:13.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T02:01:13.551+0000] {logging_mixin.py:188} INFO - [2024-04-28T02:01:13.550+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T02:01:14.114+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T02:01:14.147+0000] {logging_mixin.py:188} INFO - [2024-04-28T02:01:14.147+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T02:01:14.179+0000] {logging_mixin.py:188} INFO - [2024-04-28T02:01:14.179+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T02:01:14.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.692 seconds
+[2024-04-28T03:28:44.411+0000] {processor.py:161} INFO - Started process (PID=46675) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T03:28:44.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T03:28:44.417+0000] {logging_mixin.py:188} INFO - [2024-04-28T03:28:44.416+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T03:28:45.170+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T03:28:45.200+0000] {logging_mixin.py:188} INFO - [2024-04-28T03:28:45.200+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T03:28:45.237+0000] {logging_mixin.py:188} INFO - [2024-04-28T03:28:45.237+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T03:28:45.263+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.873 seconds
+[2024-04-28T04:45:43.144+0000] {processor.py:161} INFO - Started process (PID=46735) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T04:45:43.146+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T04:45:43.148+0000] {logging_mixin.py:188} INFO - [2024-04-28T04:45:43.147+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T04:45:43.708+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T04:45:43.755+0000] {logging_mixin.py:188} INFO - [2024-04-28T04:45:43.754+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T04:45:43.803+0000] {logging_mixin.py:188} INFO - [2024-04-28T04:45:43.802+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T04:45:43.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.703 seconds
+[2024-04-28T05:30:48.788+0000] {processor.py:161} INFO - Started process (PID=46795) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T05:30:48.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T05:30:48.793+0000] {logging_mixin.py:188} INFO - [2024-04-28T05:30:48.792+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T05:30:49.383+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T05:30:49.398+0000] {logging_mixin.py:188} INFO - [2024-04-28T05:30:49.398+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T05:30:49.419+0000] {logging_mixin.py:188} INFO - [2024-04-28T05:30:49.419+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T05:30:49.433+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.660 seconds
+[2024-04-28T07:05:28.768+0000] {processor.py:161} INFO - Started process (PID=46855) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T07:05:28.769+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T07:05:28.770+0000] {logging_mixin.py:188} INFO - [2024-04-28T07:05:28.769+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T07:05:29.040+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T07:05:29.052+0000] {logging_mixin.py:188} INFO - [2024-04-28T07:05:29.052+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T07:05:29.068+0000] {logging_mixin.py:188} INFO - [2024-04-28T07:05:29.068+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T07:05:29.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.573 seconds
+[2024-04-28T10:35:36.030+0000] {processor.py:161} INFO - Started process (PID=46915) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T10:35:36.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T10:35:36.034+0000] {logging_mixin.py:188} INFO - [2024-04-28T10:35:36.033+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T10:35:36.392+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T10:35:36.407+0000] {logging_mixin.py:188} INFO - [2024-04-28T10:35:36.406+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T10:35:36.423+0000] {logging_mixin.py:188} INFO - [2024-04-28T10:35:36.423+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T10:35:36.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.416 seconds
+[2024-04-28T13:38:29.634+0000] {processor.py:161} INFO - Started process (PID=46975) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T13:38:29.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T13:38:29.639+0000] {logging_mixin.py:188} INFO - [2024-04-28T13:38:29.638+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T13:38:30.069+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T13:38:30.097+0000] {logging_mixin.py:188} INFO - [2024-04-28T13:38:30.096+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T13:38:30.130+0000] {logging_mixin.py:188} INFO - [2024-04-28T13:38:30.129+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T13:38:30.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.536 seconds
+[2024-04-28T16:41:30.820+0000] {processor.py:161} INFO - Started process (PID=47034) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T16:41:30.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T16:41:30.822+0000] {logging_mixin.py:188} INFO - [2024-04-28T16:41:30.822+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T16:41:31.359+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T16:41:31.380+0000] {logging_mixin.py:188} INFO - [2024-04-28T16:41:31.380+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T16:41:31.413+0000] {logging_mixin.py:188} INFO - [2024-04-28T16:41:31.413+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T16:41:31.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.668 seconds
+[2024-04-28T17:56:46.638+0000] {processor.py:161} INFO - Started process (PID=47094) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T17:56:46.640+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T17:56:46.641+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:56:46.641+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T17:56:47.056+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T17:56:47.075+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:56:47.074+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T17:56:47.101+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:56:47.101+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T17:56:47.118+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.490 seconds
+[2024-04-28T17:57:17.382+0000] {processor.py:161} INFO - Started process (PID=47154) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T17:57:17.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T17:57:17.388+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:57:17.387+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T17:57:17.768+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T17:57:17.781+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:57:17.781+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T17:57:18.035+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:57:18.035+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T17:57:18.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.678 seconds
+[2024-04-28T17:57:48.262+0000] {processor.py:161} INFO - Started process (PID=47214) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T17:57:48.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T17:57:48.266+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:57:48.266+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T17:57:48.679+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T17:57:48.695+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:57:48.695+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T17:57:48.994+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:57:48.994+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T17:57:49.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.757 seconds
+[2024-04-28T17:58:19.133+0000] {processor.py:161} INFO - Started process (PID=47274) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T17:58:19.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T17:58:19.137+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:58:19.136+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T17:58:19.420+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T17:58:19.438+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:58:19.438+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T17:58:19.457+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:58:19.456+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T17:58:19.605+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.485 seconds
+[2024-04-28T17:58:49.913+0000] {processor.py:161} INFO - Started process (PID=47334) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T17:58:49.915+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T17:58:49.916+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:58:49.915+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T17:58:50.215+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T17:58:50.228+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:58:50.228+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T17:58:50.243+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:58:50.243+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T17:58:50.256+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.352 seconds
+[2024-04-28T17:59:20.490+0000] {processor.py:161} INFO - Started process (PID=47394) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T17:59:20.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T17:59:20.492+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:59:20.492+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T17:59:20.965+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T17:59:20.976+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:59:20.976+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T17:59:20.990+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:59:20.990+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T17:59:21.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.521 seconds
+[2024-04-28T17:59:51.230+0000] {processor.py:161} INFO - Started process (PID=47460) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T17:59:51.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T17:59:51.231+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:59:51.231+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T17:59:51.586+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T17:59:51.776+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:59:51.775+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T17:59:51.792+0000] {logging_mixin.py:188} INFO - [2024-04-28T17:59:51.791+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T17:59:51.804+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.579 seconds
+[2024-04-28T18:00:22.666+0000] {processor.py:161} INFO - Started process (PID=47520) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:00:22.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:00:22.669+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:00:22.669+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:00:22.921+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:00:22.936+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:00:22.935+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:00:23.090+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:00:23.090+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:00:23.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.444 seconds
+[2024-04-28T18:00:53.209+0000] {processor.py:161} INFO - Started process (PID=47580) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:00:53.210+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:00:53.212+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:00:53.211+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:00:53.641+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:00:53.651+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:00:53.651+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:00:53.665+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:00:53.665+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:00:53.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.474 seconds
+[2024-04-28T18:01:23.772+0000] {processor.py:161} INFO - Started process (PID=47646) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:01:23.773+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:01:23.774+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:01:23.774+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:01:24.241+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:01:24.251+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:01:24.251+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:01:24.264+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:01:24.264+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:01:24.276+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.514 seconds
+[2024-04-28T18:01:54.513+0000] {processor.py:161} INFO - Started process (PID=47706) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:01:54.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:01:54.515+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:01:54.515+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:01:55.139+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:01:55.150+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:01:55.150+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:01:55.166+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:01:55.166+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:01:55.177+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.673 seconds
+[2024-04-28T18:02:25.452+0000] {processor.py:161} INFO - Started process (PID=47766) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:02:25.454+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:02:25.455+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:02:25.455+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:02:26.443+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:02:26.459+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:02:26.458+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:02:26.479+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:02:26.479+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:02:26.495+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 1.049 seconds
+[2024-04-28T18:02:56.565+0000] {processor.py:161} INFO - Started process (PID=47826) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:02:56.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:02:56.568+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:02:56.567+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:02:57.129+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:02:57.141+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:02:57.140+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:02:57.156+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:02:57.155+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:02:57.167+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.614 seconds
+[2024-04-28T18:03:27.262+0000] {processor.py:161} INFO - Started process (PID=47886) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:03:27.264+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:03:27.265+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:03:27.265+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:03:27.969+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:03:27.984+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:03:27.983+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:03:28.001+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:03:28.001+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:03:28.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.764 seconds
+[2024-04-28T18:03:58.691+0000] {processor.py:161} INFO - Started process (PID=47949) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:03:58.692+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:03:58.694+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:03:58.693+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:03:59.611+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:03:59.625+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:03:59.625+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:03:59.643+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:03:59.642+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:03:59.659+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.974 seconds
+[2024-04-28T18:04:30.347+0000] {processor.py:161} INFO - Started process (PID=48012) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:04:30.349+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:04:30.350+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:04:30.349+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:04:30.914+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:04:30.928+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:04:30.927+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:04:30.952+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:04:30.952+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:04:30.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.627 seconds
+[2024-04-28T18:05:01.060+0000] {processor.py:161} INFO - Started process (PID=48072) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:05:01.062+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:05:01.063+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:05:01.063+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:05:01.639+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:05:01.652+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:05:01.652+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:05:01.666+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:05:01.666+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:05:01.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.629 seconds
+[2024-04-28T18:05:31.852+0000] {processor.py:161} INFO - Started process (PID=48132) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:05:31.854+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:05:31.855+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:05:31.855+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:05:32.473+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:05:32.486+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:05:32.486+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:05:32.502+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:05:32.502+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:05:32.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.674 seconds
+[2024-04-28T18:06:02.693+0000] {processor.py:161} INFO - Started process (PID=48198) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:06:02.694+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:06:02.695+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:06:02.694+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:06:03.193+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:06:03.208+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:06:03.207+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:06:03.225+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:06:03.225+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:06:03.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.549 seconds
+[2024-04-28T18:06:33.492+0000] {processor.py:161} INFO - Started process (PID=48261) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:06:33.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:06:33.494+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:06:33.494+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:06:33.971+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:06:33.983+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:06:33.983+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:06:33.996+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:06:33.996+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:06:34.009+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.522 seconds
+[2024-04-28T18:07:04.092+0000] {processor.py:161} INFO - Started process (PID=48322) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:07:04.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:07:04.094+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:07:04.093+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:07:04.458+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:07:04.470+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:07:04.470+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:07:04.485+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:07:04.485+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:07:04.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.409 seconds
+[2024-04-28T18:07:34.914+0000] {processor.py:161} INFO - Started process (PID=48385) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:07:34.915+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:07:34.916+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:07:34.916+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:07:35.454+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:07:35.465+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:07:35.465+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:07:35.479+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:07:35.479+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:07:35.490+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.581 seconds
+[2024-04-28T18:08:05.756+0000] {processor.py:161} INFO - Started process (PID=48447) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:08:05.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:08:05.758+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:08:05.757+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:08:06.432+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:08:06.447+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:08:06.446+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:08:06.463+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:08:06.463+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:08:06.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.726 seconds
+[2024-04-28T18:08:36.587+0000] {processor.py:161} INFO - Started process (PID=48510) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:08:36.589+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:08:36.590+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:08:36.589+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:08:37.476+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:08:37.502+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:08:37.502+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:08:37.526+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:08:37.526+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:08:37.549+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.969 seconds
+[2024-04-28T18:09:07.937+0000] {processor.py:161} INFO - Started process (PID=48571) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:09:07.938+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:09:07.939+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:09:07.939+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:09:08.493+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:09:08.511+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:09:08.511+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:09:08.527+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:09:08.527+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:09:08.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.612 seconds
+[2024-04-28T18:09:38.742+0000] {processor.py:161} INFO - Started process (PID=48631) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:09:38.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:09:38.745+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:09:38.744+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:09:39.246+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:09:39.259+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:09:39.259+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:09:39.274+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:09:39.274+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:09:39.285+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.550 seconds
+[2024-04-28T18:10:09.582+0000] {processor.py:161} INFO - Started process (PID=48697) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:10:09.583+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:10:09.584+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:10:09.583+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:10:09.922+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:10:09.934+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:10:09.934+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:10:09.947+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:10:09.947+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:10:09.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.381 seconds
+[2024-04-28T18:10:40.840+0000] {processor.py:161} INFO - Started process (PID=48757) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:10:40.841+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:10:40.842+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:10:40.842+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:10:41.390+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:10:41.401+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:10:41.401+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:10:41.416+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:10:41.416+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:10:41.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.597 seconds
+[2024-04-28T18:11:11.476+0000] {processor.py:161} INFO - Started process (PID=48817) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:11:11.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:11:11.478+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:11:11.478+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:11:11.893+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:11:11.905+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:11:11.905+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:11:11.925+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:11:11.925+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:11:11.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.472 seconds
+[2024-04-28T18:11:42.069+0000] {processor.py:161} INFO - Started process (PID=48880) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:11:42.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:11:42.070+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:11:42.070+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:11:42.505+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:11:42.517+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:11:42.516+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:11:42.530+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:11:42.529+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:11:42.542+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.478 seconds
+[2024-04-28T18:12:12.638+0000] {processor.py:161} INFO - Started process (PID=48942) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:12:12.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:12:12.644+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:12:12.643+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:12:12.996+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:12:13.006+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:12:13.006+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:12:13.020+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:12:13.020+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:12:13.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.397 seconds
+[2024-04-28T18:12:43.377+0000] {processor.py:161} INFO - Started process (PID=49006) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:12:43.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:12:43.380+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:12:43.380+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:12:43.725+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:12:43.736+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:12:43.735+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:12:43.748+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:12:43.748+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:12:43.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.387 seconds
+[2024-04-28T18:13:14.034+0000] {processor.py:161} INFO - Started process (PID=49068) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:13:14.034+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:13:14.035+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:13:14.035+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:13:14.369+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:13:14.381+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:13:14.381+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:13:14.394+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:13:14.393+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:13:14.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.374 seconds
+[2024-04-28T18:13:44.504+0000] {processor.py:161} INFO - Started process (PID=49117) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:13:44.505+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:13:44.506+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:13:44.506+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:13:45.411+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:13:45.445+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:13:45.444+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:13:45.479+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:13:45.479+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:13:45.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 1.003 seconds
+[2024-04-28T18:14:16.364+0000] {processor.py:161} INFO - Started process (PID=49180) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:14:16.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:14:16.367+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:14:16.367+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:14:16.778+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:14:16.793+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:14:16.792+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:14:16.812+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:14:16.812+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:14:16.828+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.472 seconds
+[2024-04-28T18:14:47.135+0000] {processor.py:161} INFO - Started process (PID=49240) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:14:47.136+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:14:47.137+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:14:47.137+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:14:47.470+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:14:47.481+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:14:47.480+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:14:47.493+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:14:47.493+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:14:47.503+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.378 seconds
+[2024-04-28T18:15:17.755+0000] {processor.py:161} INFO - Started process (PID=49300) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:15:17.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:15:17.758+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:15:17.757+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:15:18.171+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:15:18.182+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:15:18.182+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:15:18.196+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:15:18.195+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:15:18.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.460 seconds
+[2024-04-28T18:15:48.464+0000] {processor.py:161} INFO - Started process (PID=49360) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:15:48.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:15:48.466+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:15:48.465+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:15:48.885+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:15:48.898+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:15:48.897+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:15:48.915+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:15:48.914+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:15:48.928+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.470 seconds
+[2024-04-28T18:16:19.088+0000] {processor.py:161} INFO - Started process (PID=49426) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:16:19.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:16:19.090+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:16:19.089+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:16:19.505+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:16:19.516+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:16:19.515+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:16:19.529+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:16:19.529+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:16:19.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.456 seconds
+[2024-04-28T18:16:49.693+0000] {processor.py:161} INFO - Started process (PID=49488) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:16:49.694+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:16:49.694+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:16:49.694+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:16:50.021+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:16:50.031+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:16:50.031+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:16:50.043+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:16:50.043+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:16:50.055+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.367 seconds
+[2024-04-28T18:18:41.338+0000] {processor.py:161} INFO - Started process (PID=49511) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:18:41.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:18:41.342+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:18:41.342+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:18:42.259+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:18:42.274+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:18:42.274+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:18:42.293+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:18:42.293+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:18:42.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.985 seconds
+[2024-04-28T18:19:13.162+0000] {processor.py:161} INFO - Started process (PID=49572) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:19:13.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:19:13.165+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:19:13.165+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:19:13.807+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:19:13.823+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:19:13.823+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:19:13.847+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:19:13.846+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:19:13.865+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.710 seconds
+[2024-04-28T18:19:44.637+0000] {processor.py:161} INFO - Started process (PID=49636) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:19:44.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:19:44.640+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:19:44.640+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:19:45.280+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:19:45.293+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:19:45.292+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:19:45.306+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:19:45.306+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:19:45.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.690 seconds
+[2024-04-28T18:20:15.356+0000] {processor.py:161} INFO - Started process (PID=49703) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:20:15.357+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:20:15.357+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:20:15.357+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:20:16.032+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:20:16.044+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:20:16.044+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:20:16.059+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:20:16.059+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:20:16.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.723 seconds
+[2024-04-28T18:20:46.130+0000] {processor.py:161} INFO - Started process (PID=49770) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:20:46.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:20:46.133+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:20:46.132+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:20:46.724+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:20:46.735+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:20:46.735+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:20:46.750+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:20:46.750+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:20:46.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.636 seconds
+[2024-04-28T18:21:17.353+0000] {processor.py:161} INFO - Started process (PID=49832) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:21:17.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:21:17.356+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:21:17.356+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:21:17.914+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:21:17.927+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:21:17.926+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:21:17.942+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:21:17.942+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:21:17.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.609 seconds
+[2024-04-28T18:21:48.164+0000] {processor.py:161} INFO - Started process (PID=49898) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:21:48.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:21:48.165+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:21:48.165+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:21:48.536+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:21:48.547+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:21:48.547+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:21:48.560+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:21:48.560+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:21:48.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.412 seconds
+[2024-04-28T18:22:18.783+0000] {processor.py:161} INFO - Started process (PID=49946) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:22:18.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:22:18.785+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:22:18.784+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:22:19.302+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:22:19.323+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:22:19.322+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:22:19.343+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:22:19.343+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:22:19.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.584 seconds
+[2024-04-28T18:22:50.007+0000] {processor.py:161} INFO - Started process (PID=50006) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:22:50.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:22:50.009+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:22:50.009+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:22:50.434+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:22:50.448+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:22:50.447+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:22:50.465+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:22:50.465+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:22:50.479+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.480 seconds
+[2024-04-28T18:23:21.490+0000] {processor.py:161} INFO - Started process (PID=50069) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:23:21.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:23:21.492+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:23:21.492+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:23:21.843+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:23:21.854+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:23:21.854+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:23:21.867+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:23:21.867+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:23:21.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.398 seconds
+[2024-04-28T18:23:52.112+0000] {processor.py:161} INFO - Started process (PID=50129) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:23:52.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:23:52.116+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:23:52.115+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:23:52.530+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:23:52.541+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:23:52.540+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:23:52.554+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:23:52.554+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:23:52.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.461 seconds
+[2024-04-28T18:24:22.604+0000] {processor.py:161} INFO - Started process (PID=50189) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:24:22.605+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:24:22.605+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:24:22.605+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:24:22.907+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:24:22.934+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:24:22.933+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:24:22.956+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:24:22.956+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:24:22.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.380 seconds
+[2024-04-28T18:24:53.287+0000] {processor.py:161} INFO - Started process (PID=50253) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:24:53.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:24:53.290+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:24:53.289+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:24:53.537+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:24:53.550+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:24:53.550+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:24:53.565+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:24:53.565+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:24:53.576+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.298 seconds
+[2024-04-28T18:25:23.692+0000] {processor.py:161} INFO - Started process (PID=50316) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:25:23.693+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:25:23.694+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:25:23.693+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:25:23.951+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:25:23.965+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:25:23.965+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:25:23.983+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:25:23.982+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:25:23.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.308 seconds
+[2024-04-28T18:25:54.065+0000] {processor.py:161} INFO - Started process (PID=50378) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:25:54.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:25:54.066+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:25:54.066+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:25:54.376+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:25:54.390+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:25:54.389+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:25:54.406+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:25:54.406+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:25:54.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.357 seconds
+[2024-04-28T18:26:24.608+0000] {processor.py:161} INFO - Started process (PID=50441) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:26:24.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:26:24.609+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:26:24.609+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:26:24.834+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:26:24.847+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:26:24.847+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:26:24.864+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:26:24.863+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:26:24.875+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.272 seconds
+[2024-04-28T18:26:54.938+0000] {processor.py:161} INFO - Started process (PID=50503) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:26:54.939+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:26:54.940+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:26:54.940+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:26:55.166+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:26:55.178+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:26:55.178+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:26:55.193+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:26:55.192+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:26:55.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.271 seconds
+[2024-04-28T18:27:25.296+0000] {processor.py:161} INFO - Started process (PID=50565) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:27:25.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:27:25.298+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:27:25.298+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:27:25.570+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:27:25.583+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:27:25.583+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:27:25.597+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:27:25.597+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:27:25.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.318 seconds
+[2024-04-28T18:27:56.172+0000] {processor.py:161} INFO - Started process (PID=50625) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:27:56.173+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:27:56.175+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:27:56.174+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:27:56.551+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:27:56.567+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:27:56.566+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:27:56.584+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:27:56.584+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:27:56.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.434 seconds
+[2024-04-28T18:28:27.338+0000] {processor.py:161} INFO - Started process (PID=50685) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:28:27.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:28:27.342+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:28:27.341+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:28:27.667+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:28:27.681+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:28:27.681+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:28:27.698+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:28:27.697+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:28:27.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.382 seconds
+[2024-04-28T18:28:57.995+0000] {processor.py:161} INFO - Started process (PID=50745) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:28:57.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:28:57.999+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:28:57.999+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:28:58.412+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:28:58.427+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:28:58.427+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:28:58.449+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:28:58.449+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:28:58.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.477 seconds
+[2024-04-28T18:29:29.114+0000] {processor.py:161} INFO - Started process (PID=50805) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:29:29.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:29:29.115+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:29:29.115+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:29:29.382+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:29:29.399+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:29:29.399+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:29:29.423+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:29:29.423+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:29:29.444+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.335 seconds
+[2024-04-28T18:29:59.567+0000] {processor.py:161} INFO - Started process (PID=50868) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:29:59.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:29:59.568+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:29:59.568+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:29:59.856+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:29:59.869+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:29:59.869+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:29:59.885+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:29:59.885+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:29:59.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.335 seconds
+[2024-04-28T18:30:29.929+0000] {processor.py:161} INFO - Started process (PID=50931) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:30:29.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:30:29.931+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:30:29.931+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:30:30.165+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:30:30.177+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:30:30.177+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:30:30.191+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:30:30.190+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:30:30.202+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.277 seconds
+[2024-04-28T18:31:00.271+0000] {processor.py:161} INFO - Started process (PID=50993) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:31:00.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:31:00.272+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:31:00.272+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:31:00.489+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:31:00.502+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:31:00.501+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:31:00.515+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:31:00.515+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:31:00.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.259 seconds
+[2024-04-28T18:31:30.559+0000] {processor.py:161} INFO - Started process (PID=51053) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:31:30.560+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:31:30.560+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:31:30.560+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:31:30.828+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:31:30.841+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:31:30.840+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:31:30.855+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:31:30.855+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:31:30.866+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.311 seconds
+[2024-04-28T18:32:00.893+0000] {processor.py:161} INFO - Started process (PID=51113) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:32:00.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:32:00.894+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:32:00.894+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:32:01.116+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:32:01.129+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:32:01.128+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:32:01.145+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:32:01.145+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:32:01.156+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.267 seconds
+[2024-04-28T18:33:53.831+0000] {processor.py:161} INFO - Started process (PID=51129) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:33:53.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:33:53.833+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:33:53.833+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:33:54.150+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:33:54.169+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:33:54.168+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:33:54.191+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:33:54.191+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:33:54.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.383 seconds
+[2024-04-28T18:34:24.770+0000] {processor.py:161} INFO - Started process (PID=51189) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:34:24.773+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:34:24.775+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:34:24.774+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:34:25.216+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:34:25.231+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:34:25.230+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:34:25.285+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:34:25.285+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:34:25.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.564 seconds
+[2024-04-28T18:34:55.855+0000] {processor.py:161} INFO - Started process (PID=51249) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:34:55.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:34:55.858+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:34:55.858+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:34:56.103+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:34:56.116+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:34:56.116+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:34:56.134+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:34:56.133+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:34:56.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.302 seconds
+[2024-04-28T18:35:26.254+0000] {processor.py:161} INFO - Started process (PID=51313) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:35:26.255+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:35:26.255+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:35:26.255+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:35:26.568+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:35:26.582+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:35:26.581+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:35:26.598+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:35:26.598+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:35:26.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.361 seconds
+[2024-04-28T18:35:56.694+0000] {processor.py:161} INFO - Started process (PID=51374) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:35:56.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:35:56.695+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:35:56.695+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:35:56.935+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:35:56.947+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:35:56.947+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:35:56.962+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:35:56.961+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:35:56.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.285 seconds
+[2024-04-28T18:36:27.112+0000] {processor.py:161} INFO - Started process (PID=51428) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:36:27.113+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:36:27.114+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:36:27.114+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:36:27.358+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:36:27.373+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:36:27.373+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:36:27.391+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:36:27.391+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:36:27.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.303 seconds
+[2024-04-28T18:36:57.549+0000] {processor.py:161} INFO - Started process (PID=51488) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:36:57.551+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:36:57.552+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:36:57.551+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:36:57.785+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:36:57.797+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:36:57.797+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:36:57.814+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:36:57.813+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:36:57.828+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.287 seconds
+[2024-04-28T18:37:27.992+0000] {processor.py:161} INFO - Started process (PID=51548) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T18:37:27.994+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T18:37:27.996+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:37:27.996+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T18:37:28.296+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T18:37:28.310+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:37:28.309+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T18:37:28.326+0000] {logging_mixin.py:188} INFO - [2024-04-28T18:37:28.326+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T18:37:28.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.361 seconds
+[2024-04-28T19:31:52.635+0000] {processor.py:161} INFO - Started process (PID=51608) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:31:52.638+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:31:52.640+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:31:52.640+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:31:53.339+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:31:53.379+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:31:53.379+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:31:53.427+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:31:53.426+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:31:53.453+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.837 seconds
+[2024-04-28T19:32:23.786+0000] {processor.py:161} INFO - Started process (PID=51668) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:32:23.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:32:23.789+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:32:23.788+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:32:24.175+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:32:24.188+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:32:24.188+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:32:24.204+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:32:24.204+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:32:24.216+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.451 seconds
+[2024-04-28T19:32:54.410+0000] {processor.py:161} INFO - Started process (PID=51728) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:32:54.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:32:54.413+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:32:54.413+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:32:54.651+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:32:54.663+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:32:54.663+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:32:54.678+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:32:54.678+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:32:54.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.290 seconds
+[2024-04-28T19:33:24.841+0000] {processor.py:161} INFO - Started process (PID=51788) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:33:24.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:33:24.844+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:33:24.843+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:33:25.167+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:33:25.183+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:33:25.183+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:33:25.202+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:33:25.202+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:33:25.219+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.391 seconds
+[2024-04-28T19:33:55.318+0000] {processor.py:161} INFO - Started process (PID=51848) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:33:55.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:33:55.321+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:33:55.321+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:33:55.684+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:33:55.697+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:33:55.697+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:33:55.713+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:33:55.713+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:33:55.727+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.420 seconds
+[2024-04-28T19:34:25.767+0000] {processor.py:161} INFO - Started process (PID=51911) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:34:25.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:34:25.768+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:34:25.768+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:34:26.007+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:34:26.020+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:34:26.019+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:34:26.035+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:34:26.035+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:34:26.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.285 seconds
+[2024-04-28T19:34:56.116+0000] {processor.py:161} INFO - Started process (PID=51968) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:34:56.117+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:34:56.118+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:34:56.118+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:34:56.350+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:34:56.362+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:34:56.362+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:34:56.377+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:34:56.377+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:34:56.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.282 seconds
+[2024-04-28T19:35:26.519+0000] {processor.py:161} INFO - Started process (PID=52027) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:35:26.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:35:26.521+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:35:26.521+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:35:26.761+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:35:26.774+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:35:26.774+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:35:26.789+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:35:26.789+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:35:26.801+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.291 seconds
+[2024-04-28T19:35:56.849+0000] {processor.py:161} INFO - Started process (PID=52090) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T19:35:56.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T19:35:56.850+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:35:56.850+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T19:35:57.186+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T19:35:57.208+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:35:57.207+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T19:35:57.234+0000] {logging_mixin.py:188} INFO - [2024-04-28T19:35:57.234+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T19:35:57.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.410 seconds
+[2024-04-28T20:05:31.055+0000] {processor.py:161} INFO - Started process (PID=52147) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:05:31.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:05:31.064+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:05:31.062+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:05:31.793+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:05:31.818+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:05:31.818+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:05:31.849+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:05:31.849+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:05:31.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.849 seconds
+[2024-04-28T20:06:03.213+0000] {processor.py:161} INFO - Started process (PID=52207) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:06:03.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:06:03.216+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:06:03.215+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:06:03.562+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:06:03.576+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:06:03.575+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:06:03.592+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:06:03.592+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:06:03.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.402 seconds
+[2024-04-28T20:07:16.622+0000] {processor.py:161} INFO - Started process (PID=52267) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:07:16.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:07:16.630+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:07:16.629+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:07:16.935+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:07:16.948+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:07:16.948+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:07:16.964+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:07:16.964+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:07:16.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.364 seconds
+[2024-04-28T20:08:09.955+0000] {processor.py:161} INFO - Started process (PID=52327) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:08:09.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:08:09.957+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:08:09.957+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:08:10.198+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:08:10.211+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:08:10.211+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:08:10.227+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:08:10.227+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:08:10.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.291 seconds
+[2024-04-28T20:12:17.054+0000] {processor.py:161} INFO - Started process (PID=52387) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:12:17.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:12:17.065+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:12:17.064+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:12:17.558+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:12:17.572+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:12:17.571+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:12:17.587+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:12:17.587+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:12:17.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.575 seconds
+[2024-04-28T20:13:14.235+0000] {processor.py:161} INFO - Started process (PID=52447) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:13:14.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:13:14.238+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:13:14.237+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:13:14.691+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:13:14.707+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:13:14.707+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:13:14.726+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:13:14.726+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:13:14.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.535 seconds
+[2024-04-28T20:20:53.026+0000] {processor.py:161} INFO - Started process (PID=52507) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:20:53.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:20:53.028+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:20:53.027+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:20:53.548+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:20:53.728+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:20:53.727+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:20:53.985+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:20:53.984+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:20:54.069+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 1.048 seconds
+[2024-04-28T20:24:03.342+0000] {processor.py:161} INFO - Started process (PID=52567) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:24:03.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:24:03.344+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:24:03.344+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:24:03.776+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:24:03.818+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:24:03.817+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:24:04.240+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:24:04.239+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:24:04.270+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.937 seconds
+[2024-04-28T20:28:53.004+0000] {processor.py:161} INFO - Started process (PID=52627) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:28:53.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:28:53.012+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:28:53.010+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:28:53.842+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:28:53.869+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:28:53.869+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:28:54.237+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:28:54.237+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:28:54.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 1.258 seconds
+[2024-04-28T20:32:00.198+0000] {processor.py:161} INFO - Started process (PID=52687) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:32:00.209+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:32:00.212+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:32:00.212+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:32:00.856+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:32:00.903+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:32:00.902+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:32:00.960+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:32:00.959+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:32:01.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 1.151 seconds
+[2024-04-28T20:37:56.544+0000] {processor.py:161} INFO - Started process (PID=52747) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:37:56.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:37:56.547+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:37:56.546+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:37:57.304+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:37:57.355+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:37:57.354+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:37:57.411+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:37:57.411+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:37:58.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 1.522 seconds
+[2024-04-28T20:42:52.404+0000] {processor.py:161} INFO - Started process (PID=52807) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:42:52.408+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:42:52.413+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:42:52.411+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:42:53.229+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:42:53.251+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:42:53.250+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:42:53.271+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:42:53.271+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:42:53.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.913 seconds
+[2024-04-28T20:49:12.816+0000] {processor.py:161} INFO - Started process (PID=52867) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:49:12.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:49:12.819+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:49:12.818+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:49:13.370+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:49:13.399+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:49:13.398+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:49:13.434+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:49:13.433+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:49:13.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.655 seconds
+[2024-04-28T20:51:28.279+0000] {processor.py:161} INFO - Started process (PID=52927) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:51:28.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:51:28.282+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:51:28.282+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:51:28.528+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:51:28.670+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:51:28.670+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:51:28.682+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:51:28.682+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:51:28.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.423 seconds
+[2024-04-28T20:57:08.894+0000] {processor.py:161} INFO - Started process (PID=52986) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:57:08.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:57:08.896+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:57:08.896+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:57:09.779+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:57:09.826+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:57:09.826+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:57:09.870+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:57:09.870+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:57:09.902+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 1.019 seconds
+[2024-04-28T20:57:50.103+0000] {processor.py:161} INFO - Started process (PID=53046) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T20:57:50.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T20:57:50.106+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:57:50.106+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T20:57:50.467+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T20:57:50.477+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:57:50.477+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T20:57:50.491+0000] {logging_mixin.py:188} INFO - [2024-04-28T20:57:50.491+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T20:57:50.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.408 seconds
+[2024-04-28T21:00:18.452+0000] {processor.py:161} INFO - Started process (PID=53106) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:00:18.454+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:00:18.456+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:00:18.455+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:00:19.355+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:00:19.368+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:00:19.368+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:00:19.384+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:00:19.384+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:00:19.399+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.964 seconds
+[2024-04-28T21:04:08.374+0000] {processor.py:161} INFO - Started process (PID=53166) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:04:08.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:04:08.381+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:04:08.380+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:04:09.066+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:04:09.089+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:04:09.088+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:04:09.119+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:04:09.119+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:04:09.148+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.781 seconds
+[2024-04-28T21:05:30.462+0000] {processor.py:161} INFO - Started process (PID=53226) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:05:30.464+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:05:30.465+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:05:30.465+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:05:30.911+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:05:30.922+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:05:30.921+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:05:30.934+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:05:30.934+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:05:30.946+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.495 seconds
+[2024-04-28T21:06:54.495+0000] {processor.py:161} INFO - Started process (PID=53286) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:06:54.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:06:54.497+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:06:54.496+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:06:54.855+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:06:54.867+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:06:54.867+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:06:54.880+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:06:54.879+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:06:54.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.400 seconds
+[2024-04-28T21:08:49.149+0000] {processor.py:161} INFO - Started process (PID=53346) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:08:49.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:08:49.151+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:08:49.150+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:08:49.508+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:08:49.520+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:08:49.519+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:08:49.533+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:08:49.533+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:08:49.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.403 seconds
+[2024-04-28T21:13:17.910+0000] {processor.py:161} INFO - Started process (PID=53406) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:13:17.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:13:17.913+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:13:17.912+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:13:18.655+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:13:18.685+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:13:18.685+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:13:18.714+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:13:18.714+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:13:18.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.838 seconds
+[2024-04-28T21:17:35.966+0000] {processor.py:161} INFO - Started process (PID=53466) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:17:35.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:17:35.968+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:17:35.968+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:17:36.828+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:17:36.867+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:17:36.864+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:17:36.907+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:17:36.907+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:17:36.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.979 seconds
+[2024-04-28T21:21:22.453+0000] {processor.py:161} INFO - Started process (PID=53526) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:21:22.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:21:22.457+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:21:22.456+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:21:23.046+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:21:23.076+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:21:23.075+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:21:23.103+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:21:23.102+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:21:23.125+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.680 seconds
+[2024-04-28T21:24:38.534+0000] {processor.py:161} INFO - Started process (PID=53586) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:24:38.535+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:24:38.536+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:24:38.536+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:24:38.964+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:24:38.976+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:24:38.976+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:24:38.991+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:24:38.991+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:24:39.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.480 seconds
+[2024-04-28T21:29:01.749+0000] {processor.py:161} INFO - Started process (PID=53645) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:29:01.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:29:01.756+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:29:01.755+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:29:02.477+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:29:02.492+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:29:02.491+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:29:02.509+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:29:02.509+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:29:02.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.793 seconds
+[2024-04-28T21:32:14.185+0000] {processor.py:161} INFO - Started process (PID=53705) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:32:14.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:32:14.187+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:32:14.187+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:32:14.895+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:32:14.928+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:32:14.927+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:32:14.982+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:32:14.982+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:32:15.016+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.839 seconds
+[2024-04-28T21:34:06.895+0000] {processor.py:161} INFO - Started process (PID=53764) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:34:06.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:34:06.899+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:34:06.898+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:34:07.279+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:34:07.290+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:34:07.289+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:34:07.302+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:34:07.302+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:34:07.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.426 seconds
+[2024-04-28T21:37:17.780+0000] {processor.py:161} INFO - Started process (PID=53824) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:37:17.783+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:37:17.786+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:37:17.785+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:37:18.502+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:37:18.518+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:37:18.517+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:37:18.531+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:37:18.531+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:37:18.543+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.779 seconds
+[2024-04-28T21:59:21.147+0000] {processor.py:161} INFO - Started process (PID=53884) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T21:59:21.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T21:59:21.155+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:59:21.154+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T21:59:21.708+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T21:59:21.730+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:59:21.729+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T21:59:21.855+0000] {logging_mixin.py:188} INFO - [2024-04-28T21:59:21.855+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T21:59:21.949+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.815 seconds
+[2024-04-28T22:46:00.464+0000] {processor.py:161} INFO - Started process (PID=53943) to work on /opt/airflow/dags/homework2.py
+[2024-04-28T22:46:00.466+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/homework2.py for tasks to queue
+[2024-04-28T22:46:00.467+0000] {logging_mixin.py:188} INFO - [2024-04-28T22:46:00.467+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/homework2.py
+[2024-04-28T22:46:00.942+0000] {processor.py:840} INFO - DAG(s) 'monthly_report_BushuevaTatiana' retrieved from /opt/airflow/dags/homework2.py
+[2024-04-28T22:46:00.952+0000] {logging_mixin.py:188} INFO - [2024-04-28T22:46:00.952+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-28T22:46:00.966+0000] {logging_mixin.py:188} INFO - [2024-04-28T22:46:00.966+0000] {dag.py:3954} INFO - Setting next_dagrun for monthly_report_BushuevaTatiana to 2024-05-05 00:00:00+00:00, run_after=2024-06-05 00:00:00+00:00
+[2024-04-28T22:46:00.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/homework2.py took 0.520 seconds

@@ -1,0 +1,71 @@
+[2025-05-05T12:59:32.538+0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_pipeline.parse_data manual__2025-05-05T09:53:47.864734+00:00 [queued]>
+[2025-05-05T12:59:32.541+0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_pipeline.parse_data manual__2025-05-05T09:53:47.864734+00:00 [queued]>
+[2025-05-05T12:59:32.541+0300] {taskinstance.py:2193} INFO - Starting attempt 2 of 2
+[2025-05-05T12:59:32.549+0300] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): parse_data> on 2025-05-05 09:53:47.864734+00:00
+[2025-05-05T12:59:32.559+0300] {standard_task_runner.py:60} INFO - Started process 409 to run task
+[2025-05-05T12:59:32.567+0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'etl_pipeline', 'parse_data', 'manual__2025-05-05T09:53:47.864734+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/etc_pipline.py', '--cfg-path', '/var/folders/rn/6d4yq54d3pz0b5ryq64xt07m0000gn/T/tmpe86lkyq3']
+[2025-05-05T12:59:32.568+0300] {standard_task_runner.py:88} INFO - Job 12: Subtask parse_data
+[2025-05-05T12:59:32.619+0300] {task_command.py:423} INFO - Running <TaskInstance: etl_pipeline.parse_data manual__2025-05-05T09:53:47.864734+00:00 [running]> on host macbook-air-admin.local
+[2025-05-05T12:59:32.648+0300] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Bushueva Tatiana' AIRFLOW_CTX_DAG_ID='etl_pipeline' AIRFLOW_CTX_TASK_ID='parse_data' AIRFLOW_CTX_EXECUTION_DATE='2025-05-05T09:53:47.864734+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-05T09:53:47.864734+00:00'
+[2025-05-05T12:59:48.162+0300] {taskinstance.py:2731} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/admin/anaconda3/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 444, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/anaconda3/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 414, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/anaconda3/lib/python3.11/site-packages/airflow/operators/python.py", line 200, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/anaconda3/lib/python3.11/site-packages/airflow/operators/python.py", line 217, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/airflow/dags/etc_pipline.py", line 39, in _parse
+    parsed = data_pars('https://www.avito.ru/all/rezume?cd=1&p=25&q=%D0%BA%D0%BE%D1%81%D0%BC%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3+%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/airflow/dags/scripts/parse_data.py", line 27, in data_pars
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'items-items-pZX46')))
+  File "/Users/admin/anaconda3/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104656a54 cxxbridge1$str$ptr + 2803960
+1   chromedriver                        0x000000010464ecf0 cxxbridge1$str$ptr + 2771860
+2   chromedriver                        0x000000010419a864 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001041e1410 cxxbridge1$string$len + 382736
+4   chromedriver                        0x0000000104222480 cxxbridge1$string$len + 649088
+5   chromedriver                        0x00000001041d57ec cxxbridge1$string$len + 334572
+6   chromedriver                        0x000000010461bccc cxxbridge1$str$ptr + 2562928
+7   chromedriver                        0x000000010461ef98 cxxbridge1$str$ptr + 2575932
+8   chromedriver                        0x00000001045fc2c4 cxxbridge1$str$ptr + 2433384
+9   chromedriver                        0x000000010461f810 cxxbridge1$str$ptr + 2578100
+10  chromedriver                        0x00000001045ed2f0 cxxbridge1$str$ptr + 2371988
+11  chromedriver                        0x000000010463f57c cxxbridge1$str$ptr + 2708512
+12  chromedriver                        0x000000010463f708 cxxbridge1$str$ptr + 2708908
+13  chromedriver                        0x000000010464e93c cxxbridge1$str$ptr + 2770912
+14  libsystem_pthread.dylib             0x000000018b77f034 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018b779e3c thread_start + 8
+
+[2025-05-05T12:59:48.174+0300] {taskinstance.py:1149} INFO - Marking task as FAILED. dag_id=etl_pipeline, task_id=parse_data, execution_date=20250505T095347, start_date=20250505T095932, end_date=20250505T095948
+[2025-05-05T12:59:48.181+0300] {standard_task_runner.py:107} ERROR - Failed to execute job 12 for task parse_data (Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104656a54 cxxbridge1$str$ptr + 2803960
+1   chromedriver                        0x000000010464ecf0 cxxbridge1$str$ptr + 2771860
+2   chromedriver                        0x000000010419a864 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001041e1410 cxxbridge1$string$len + 382736
+4   chromedriver                        0x0000000104222480 cxxbridge1$string$len + 649088
+5   chromedriver                        0x00000001041d57ec cxxbridge1$string$len + 334572
+6   chromedriver                        0x000000010461bccc cxxbridge1$str$ptr + 2562928
+7   chromedriver                        0x000000010461ef98 cxxbridge1$str$ptr + 2575932
+8   chromedriver                        0x00000001045fc2c4 cxxbridge1$str$ptr + 2433384
+9   chromedriver                        0x000000010461f810 cxxbridge1$str$ptr + 2578100
+10  chromedriver                        0x00000001045ed2f0 cxxbridge1$str$ptr + 2371988
+11  chromedriver                        0x000000010463f57c cxxbridge1$str$ptr + 2708512
+12  chromedriver                        0x000000010463f708 cxxbridge1$str$ptr + 2708908
+13  chromedriver                        0x000000010464e93c cxxbridge1$str$ptr + 2770912
+14  libsystem_pthread.dylib             0x000000018b77f034 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018b779e3c thread_start + 8
+; 409)
+[2025-05-05T12:59:48.230+0300] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-05-05T12:59:48.240+0300] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check
